@@ -1,0 +1,14 @@
+C:\Users\dmelnez\Desktop\Programacion\AplicacionClientesEmpleado\AplicacionClientesEmpleado\bin\Debug\net6.0\AplicacionClientesEmpleado.exe
+C:\Users\dmelnez\Desktop\Programacion\AplicacionClientesEmpleado\AplicacionClientesEmpleado\bin\Debug\net6.0\AplicacionClientesEmpleado.deps.json
+C:\Users\dmelnez\Desktop\Programacion\AplicacionClientesEmpleado\AplicacionClientesEmpleado\bin\Debug\net6.0\AplicacionClientesEmpleado.runtimeconfig.json
+C:\Users\dmelnez\Desktop\Programacion\AplicacionClientesEmpleado\AplicacionClientesEmpleado\bin\Debug\net6.0\AplicacionClientesEmpleado.dll
+C:\Users\dmelnez\Desktop\Programacion\AplicacionClientesEmpleado\AplicacionClientesEmpleado\bin\Debug\net6.0\AplicacionClientesEmpleado.pdb
+C:\Users\dmelnez\Desktop\Programacion\AplicacionClientesEmpleado\AplicacionClientesEmpleado\obj\Debug\net6.0\AplicacionClientesEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\Desktop\Programacion\AplicacionClientesEmpleado\AplicacionClientesEmpleado\obj\Debug\net6.0\AplicacionClientesEmpleado.AssemblyInfoInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\AplicacionClientesEmpleado\AplicacionClientesEmpleado\obj\Debug\net6.0\AplicacionClientesEmpleado.AssemblyInfo.cs
+C:\Users\dmelnez\Desktop\Programacion\AplicacionClientesEmpleado\AplicacionClientesEmpleado\obj\Debug\net6.0\AplicacionClientesEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\AplicacionClientesEmpleado\AplicacionClientesEmpleado\obj\Debug\net6.0\AplicacionClientesEmpleado.dll
+C:\Users\dmelnez\Desktop\Programacion\AplicacionClientesEmpleado\AplicacionClientesEmpleado\obj\Debug\net6.0\refint\AplicacionClientesEmpleado.dll
+C:\Users\dmelnez\Desktop\Programacion\AplicacionClientesEmpleado\AplicacionClientesEmpleado\obj\Debug\net6.0\AplicacionClientesEmpleado.pdb
+C:\Users\dmelnez\Desktop\Programacion\AplicacionClientesEmpleado\AplicacionClientesEmpleado\obj\Debug\net6.0\AplicacionClientesEmpleado.genruntimeconfig.cache
+C:\Users\dmelnez\Desktop\Programacion\AplicacionClientesEmpleado\AplicacionClientesEmpleado\obj\Debug\net6.0\ref\AplicacionClientesEmpleado.dll
