@@ -61,8 +61,8 @@ class Progam
                             // Metodo que Mostrara los datos de los clientes
                             /*em.mostrarCliente(listaClientes);*/
                             
-                            foreach ( AltaCliente pene in listaClientes) { 
-                            Console.WriteLine(pene.ToString());
+                            foreach ( AltaCliente alt in listaClientes) { 
+                            Console.WriteLine(alt.ToString());
                             }
 
 
